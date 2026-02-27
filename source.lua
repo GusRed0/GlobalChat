@@ -30,7 +30,7 @@ local UIDragDetector = Instance.new("UIDragDetector")
 local UIListLayout = Instance.new("UIListLayout")
 
 chatGuiv1.Name = GUI_NAME
-chatGuiv1.Parent = LocalPlayer:WaitForChild("PlayerGui")
+chatGuiv1.Parent = CoreGui
 chatGuiv1.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 MainFrame.Parent = chatGuiv1

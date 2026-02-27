@@ -1,4 +1,5 @@
 # GlobalChat
+PATCHED
 Unlock the chat.
 
 Script:
