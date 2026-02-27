@@ -1,1 +1,2 @@
 # GlobalChat
+Unlock the chat.
